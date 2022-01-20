@@ -1,0 +1,187 @@
+{
+  "Header": {
+    "title": "Mental health care",
+    "paragraph": "Recovery is not one and done. It is a lifelong journey that takes place one day, one step at a time."
+  },
+  "About": {
+    "paragraph": "Mental health is an integral and essential component of health. The WHO constitution states: Health is a state of complete physical, mental and social well-being and not merely the absence of disease or infirmity. An important implication of this definition is that mental health is more than just the absence of mental disorders or disabilities.",
+    "Why": [
+      "To reduce your stress",
+      "Improve your brain activity",
+      "Improve your creativity",
+      "To enhance your personality"
+    ],
+    "Why2": [
+      "Help for depression and anxiety",
+      "Increased self esteem",
+      "Better sleep",
+      "Good mental health"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/IMG_5975.jpg",
+      "smallImage": "img/portfolio/IMG_5975.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/IMG_5972.jpg",
+      "smallImage": "img/portfolio/IMG_5972.jpg"
+      
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/IMG_5973.jpg",
+      "smallImage": "img/portfolio/IMG_5973.jpg"
+      
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/IMG_5970.jpg",
+      "smallImage": "img/portfolio/IMG_5970.jpg"
+    
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/IMG_5971.jpg",
+      "smallImage": "img/portfolio/IMG_5971.jpg"
+      
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/IMG_5974.jpg",
+      "smallImage": "img/portfolio/IMG_5974.jpg"
+      
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/IMG_5969.jpg",
+      "smallImage": "img/portfolio/IMG_5969.jpg"
+      
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/IMG_5976.jpg",
+      "smallImage": "img/portfolio/IMG_5976.jpg"
+      
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/IMG_5977.jpg",
+      "smallImage": "img/portfolio/IMG_5977.jpg"
+      
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-camera",
+      "name": "Laughing videos",
+      "text":"Laughing reduces stress hormone levels"
+    },
+    {
+      "icon": "fa fa-pencil",
+      "name": "Motivational quotes",
+      "text": "Boosts your confidence & keeps you motivated."
+    },
+    {
+      "icon": "fa fa-book",
+      "name": "Mind relaxing stories",
+      "text": "Improves brain activity and reduces stress."
+    },
+    {
+      "icon": "fa fa-camera",
+      "name": "Yoga tutorials",
+      "text": "Yoga improves strength,balance and flexibility."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "chrome extensions",
+      "text": "Used as extenstions in chrome."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "This website helps to reduce my stress levels",
+      "name": "Matt"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "Good One just have to increase the contents",
+      "name": "Elijah"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "The contents are very effective here",
+      "name": "Daniels"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "Its really helps in reducing stress",
+      "name": "Stefan"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "The UI is amazing",
+      "name": "Nikulaus"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "The Moral Stories are really impressive",
+      "name": "Jermy"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "4321 California St, San Francisco, CA 12345 ",
+    "phone": "+91 9629965658 ",
+    "email": "pocketyoga@gmail.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-photo",
+      "title": "Laughing videos",
+      "text": "Laughing reduces stress hormone levels."
+    },
+    {
+      "icon": "fa fa-camera",
+      "title": "Yoga tutorials",
+      "text":"Yoga improves strength,balance and flexibility"
+    },
+    {
+      "icon": "fa fa-pencil",
+      "title": "Motivational Quotes",
+      "text": "Boosts your confidence."
+    },
+    {
+      "icon": "fa fa-book",
+      "title": "Mind Relaxing Stories",
+      "text": "Improves brain activity and reduces stress."
+    }
+  ]
+}
